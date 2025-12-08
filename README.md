@@ -1,5 +1,6 @@
 # Dataset of crop production in Karnataka with environmental and economic factors
 
+
 ## Overview
 This dataset provides detailed agricultural data for Karnataka, India, with a focus on crop yields in Mangalore. It includes environmental, soil, and farming data, as well as economic information like crop prices. The dataset can help analyze how climate, soil type, and irrigation methods affect crop productivity, supporting optimized agricultural practices.
 
