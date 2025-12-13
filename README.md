@@ -1,33 +1,113 @@
-# Dataset of crop production in Karnataka with environmental and economic factors
+# 🌾 Agricultural Data EDA & Visualization
 
+## 📌 Overview
 
-## Overview
-This dataset provides detailed agricultural data for Karnataka, India, with a focus on crop yields in Mangalore. It includes environmental, soil, and farming data, as well as economic information like crop prices. The dataset can help analyze how climate, soil type, and irrigation methods affect crop productivity, supporting optimized agricultural practices.
+This project focuses on **Exploratory Data Analysis (EDA) and visualization of agricultural data from Karnataka, India**. The goal is to understand how different factors such as crop type, season, area cultivated, and production levels interact and influence agricultural outcomes.
 
-## Key Features
-- **Year**: Year of crop production  
-- **Location**: Geographic details within Karnataka  
-- **Environmental Factors**:  
-  - Rainfall (mm)  
-  - Temperature (°C)  
-  - Humidity (%)  
-- **Soil Type**: Type of soil in the cultivated area  
-- **Irrigation Method**: Method used for watering crops  
-- **Crop Type**: Type of crop grown  
-- **Yield**: Crop yield per unit area  
-- **Market Price**: Economic value of crops  
-- **Season**: Growth season of the crop  
+The repository is designed as a **data analysis portfolio project**, demonstrating data cleaning, exploration, visualization, and interpretation skills using Python.
 
-## Crop Seasons
-- **Kharif**: Monsoon crops (June–October), e.g., rice, maize, pulses  
-- **Rabi**: Winter crops (November–April), e.g., wheat, barley, mustard  
-- **Zaid**: Summer crops (March–June), e.g., vegetables, watermelons, cucumbers  
+---
 
-## Area Covered
-- Karnataka, India  
+## 🎯 Objective
 
-## Author
-- Rajesh Naik
+The main objectives of this project are:
 
+* To explore and understand agricultural production patterns in Karnataka
+* To identify trends across crops, seasons, and years
+* To visualize relationships between cultivated area and crop production
+* To derive meaningful insights that could help researchers, students, and policymakers
 
+---
 
+## 📂 Dataset Description
+
+* **File name:** `karnataka.csv`
+* **Region:** Karnataka, India
+* **Content:** Crop production data
+* **Key columns include:**
+
+  * `Crop`: Type of crop
+  * `Season`: Agricultural season
+  * `Area`: Area cultivated
+  * `Production`: Crop production amount
+
+The dataset is included directly in this repository for ease of reproducibility.
+
+---
+
+## 📊 Exploratory Data Analysis Highlights
+
+Some of the main analysis steps performed include:
+
+* Checking dataset structure and summary statistics
+* Handling missing or inconsistent values
+* Exploring crop distribution across seasons
+* Analyzing production and cultivated area trends
+* Visualizing relationships using bar charts, line plots, and distribution plots
+
+---
+
+## 🛠 Tools & Technologies
+
+* Python
+* Pandas
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+
+---
+
+## ▶️ How to Run the Project
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/mgh997/Agricultural-data-EDA-and-Visualization-
+```
+
+2. Navigate to the project directory
+3. Open the Jupyter Notebook:
+
+```bash
+jupyter notebook "Karnataka EDA and Visualization.ipynb"
+```
+
+---
+
+## 📁 Repository Structure
+
+```
+Agricultural-data-EDA-and-Visualization-/
+│
+├── README.md
+├── Karnataka EDA and Visualization.ipynb
+├── karnataka.csv
+└── requirements.txt
+```
+
+---
+
+## 🔍 Key Insights
+
+* Certain crops dominate agricultural production across multiple seasons
+* Production volume does not always increase proportionally with cultivated area
+* Seasonal patterns play a significant role in crop yield variations
+
+---
+
+## 🚀 Future Improvements
+
+* Apply predictive models to estimate crop production
+* Build an interactive dashboard using Plotly or Power BI
+* Compare agricultural trends across different Indian states
+
+---
+
+## 👤 Author
+
+**Name:** Your Name Here
+**GitHub:** [https://github.com/mgh997](https://github.com/mgh997)
+
+---
+
+⭐ If you found this project useful, feel free to star the repository!
