@@ -29,7 +29,6 @@ The main objectives of this project are:
   * `Crop`: Type of crop
   * `Season`: Agricultural season
   * `Area`: Area cultivated
-  * `Production`: Crop production amount
 
 The dataset is included directly in this repository for ease of reproducibility.
 
@@ -49,11 +48,11 @@ Some of the main analysis steps performed include:
 
 ## 🛠 Tools & Technologies
 
-* Python
-* Pandas
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
+- **Python**  
+- **Pandas** (data manipulation)  
+- **Matplotlib** (visualizations)  
+- **Seaborn** (visualizations)  
+- **Jupyter Notebook**  
 
 ---
 
@@ -92,14 +91,6 @@ Agricultural-data-EDA-and-Visualization-/
 * Certain crops dominate agricultural production across multiple seasons
 * Production volume does not always increase proportionally with cultivated area
 * Seasonal patterns play a significant role in crop yield variations
-
----
-
-## 🚀 Future Improvements
-
-* Apply predictive models to estimate crop production
-* Build an interactive dashboard using Plotly or Power BI
-* Compare agricultural trends across different Indian states
 
 ---
 
