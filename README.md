@@ -105,7 +105,7 @@ Agricultural-data-EDA-and-Visualization-/
 
 ## 👤 Author
 
-**Name:** Your Name Here
+**Name:** Maryam Ghane
 **GitHub:** [https://github.com/mgh997](https://github.com/mgh997)
 
 ---
