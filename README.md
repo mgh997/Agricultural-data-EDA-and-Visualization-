@@ -1,6 +1,6 @@
-# 🌾 Agricultural Data EDA & Visualization
+# Agricultural Data EDA & Visualization
 
-## 📌 Overview
+## Overview
 
 This project focuses on **Exploratory Data Analysis (EDA) and visualization of agricultural data from Karnataka, India**. The goal is to understand how different factors such as crop type, season, area cultivated, and production levels interact and influence agricultural outcomes.
 
@@ -8,7 +8,7 @@ The repository is designed as a **data analysis portfolio project**, demonstrati
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The main objectives of this project are:
 
@@ -19,7 +19,7 @@ The main objectives of this project are:
 
 ---
 
-## 📂 Dataset Description
+## Dataset Description
 
 * **File name:** `karnataka.csv`
 * **Region:** Karnataka, India
@@ -34,7 +34,7 @@ The dataset is included directly in this repository for ease of reproducibility.
 
 ---
 
-## 📊 Exploratory Data Analysis Highlights
+## Exploratory Data Analysis Highlights
 
 Some of the main analysis steps performed include:
 
@@ -46,7 +46,7 @@ Some of the main analysis steps performed include:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **Python**  
 - **Pandas** (data manipulation)  
@@ -56,7 +56,7 @@ Some of the main analysis steps performed include:
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 1. Clone the repository:
 
@@ -73,7 +73,7 @@ jupyter notebook "Karnataka EDA and Visualization.ipynb"
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Agricultural-data-EDA-and-Visualization-/
@@ -86,19 +86,11 @@ Agricultural-data-EDA-and-Visualization-/
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 * Certain crops dominate agricultural production across multiple seasons
 * Production volume does not always increase proportionally with cultivated area
 * Seasonal patterns play a significant role in crop yield variations
 
----
-
-## 👤 Author
-
-**Name:** Maryam Ghane
-**GitHub:** [https://github.com/mgh997](https://github.com/mgh997)
-
----
 
 ⭐ If you found this project useful, feel free to star the repository!
